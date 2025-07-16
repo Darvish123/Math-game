@@ -20,7 +20,7 @@
 اگر روی GitHub Pages منتشر شود، لینک اجرا می‌تواند این باشد:
 
 ```
-https://your-username.github.io/your-repo/math-game/start.html
+https://darvish123.github.io/math-game/start.html
 ```
 
 ## 📁 ساختار فایل‌ها:
